@@ -58,6 +58,24 @@
  * # base style overrides
  *
  * ------------------------------------------------------------------- */
+
+.about-desc {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blurb-container {
+    width: 50%;
+}
+
+.about-pic {
+  background: url(../images/profilepic.jpg) 100% 100% no-repeat;
+  width: 30%;
+  height: -webkit-fill-available;
+  background-size: contain;
+}
+
 html {
   font-size: 10px;
 }
