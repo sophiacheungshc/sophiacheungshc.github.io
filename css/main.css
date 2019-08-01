@@ -59,6 +59,10 @@
  *
  * ------------------------------------------------------------------- */
 
+.dev-icon {
+  width: 100px;
+  height: 100px;
+}
 .about-desc {
   display: flex;
   align-items: center;
