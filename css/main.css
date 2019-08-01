@@ -62,6 +62,7 @@
 .dev-icon {
   width: 100px;
   height: 100px;
+  margin: 1rem;
 }
 .about-desc {
   display: flex;
