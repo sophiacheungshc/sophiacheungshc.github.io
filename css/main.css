@@ -59,6 +59,12 @@
  *
  * ------------------------------------------------------------------- */
 
+ #kitchen {
+    margin: 4rem 0;
+ }
+ #ttu{
+      width: 472px;
+ }
 .dev-icon {
   width: 100px;
   height: 100px;
@@ -3071,6 +3077,9 @@ html.no-csstransitions .home-content__main {
   overflow: hidden;
 }
 
+.thumb-link {
+  height: fit-content;
+}
 .item-folio__thumb img {
   vertical-align: bottom;
   -webkit-transition: all 0.5s ease-in-out;
