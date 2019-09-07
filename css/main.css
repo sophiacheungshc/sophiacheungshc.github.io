@@ -98,7 +98,7 @@
 .about-pic {
   background: url(../images/profilepic.jpg) 100% 100% no-repeat;
   width: 30%;
-  height: -webkit-fill-available;
+  height: 430px;
   background-size: contain;
 }
 
@@ -2116,7 +2116,7 @@ body.menu-is-open {
   width: 100%;
   height: 100%;
   background-color: #111111;
-  opacity: .7;
+  opacity: .3;
   z-index: 2;
 }
 
@@ -2125,7 +2125,7 @@ body.menu-is-open {
   content: "";
   width: 50%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
   opacity: .5;
   z-index: 3;
   position: absolute;
@@ -2174,7 +2174,7 @@ body.menu-is-open {
   font-size: 3.8rem;
   line-height: 1.342;
   font-style: normal;
-  color: #9c9c9c;
+  color: whitesmoke;
 }
 
 .home-content__main {
